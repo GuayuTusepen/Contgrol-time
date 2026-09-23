@@ -1,0 +1,6 @@
+{
+  "name": "Control Time",
+  "description": "Sistema de alarma escolar con gestión de jornadas, timbres programados y alarma de emergencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
